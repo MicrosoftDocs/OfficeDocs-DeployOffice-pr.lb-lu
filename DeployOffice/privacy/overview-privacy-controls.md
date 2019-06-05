@@ -3,7 +3,7 @@ title: Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.audience: ITPro
+audience: ITPro
 ms.topic: conceptual
 ms.service: o365-proplus-itpro
 localization_priority: Priority
@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Office 365 ProPlus, inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: 4752894c0fec3b9eb625476851a4d0ec40642448
-ms.sourcegitcommit: 05820eb0281c0c8591f70b9d4b285d7f292a8cf0
+ms.openlocfilehash: a65fd2a6b7169c9098d233a926041d9cbc599886
+ms.sourcegitcommit: 3f5de6281b8e92c6c41a800f4374211188460320
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33828367"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34701124"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
 
