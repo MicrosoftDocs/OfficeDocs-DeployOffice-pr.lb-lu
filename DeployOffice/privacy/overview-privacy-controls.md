@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Office 365 ProPlus, inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: a65fd2a6b7169c9098d233a926041d9cbc599886
-ms.sourcegitcommit: 3f5de6281b8e92c6c41a800f4374211188460320
+ms.openlocfilehash: ab024c4ce2eb4d81809880b607e084932658be3c
+ms.sourcegitcommit: 3f2319ff2f8fcde87ae5ffefa3b956a8239c4aed
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34701124"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36441606"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
 
@@ -34,9 +34,11 @@ Dës Ännerungen enthalen nei an aktualiséiert Benotzerinterface (UI)-Elementer
 
 > [!IMPORTANT]
 > - Access, Excel, OneNote, Outlook, PowerPoint, Publisher a Word si vun dësen Ännerunge betraff.
-> - Dës Ännerunge bezéien sech och op d’Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi d’Project Online Professional-Formel oder Visio Online Plan 2.
-> - D’Versioun 1904 soll am Hallefjäerleche Kanal (geziilt) ab September an am Hallefjäerleche Kanal ab Januar 2020 disponibel sinn.
-> - Dës nei a verbessert Dateschutzsteierelementer ginn dann nach mat zousätzlechen Office-Clienten, wéi Teams, Office fir Mac an eis mobil Appen erweidert. Méi Informatiounen zu dësen Ännerunge wäerten an deenen nächste Méint verëffentlecht ginn. Mir wäerte weiderhin Äre Feedback berücksichtegen an all eis Office 365-Clienten a -Servicer deementspriechend optimiséieren.
+> - Dës Ännerunge gëllen och fir folgend Versiounen:
+>   - Versioun 16.28 oder méi nei vun de folgenden Office fir Mac-Applikatiounen: Excel, Outlook, OneNote, PowerPoint a Word.
+>   - Versioun 1904 oder méi nei vun den Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi d’Project Online Professional-Formel oder Visio Online Plan 2.
+> - D’Dateschutzsteierelementer aus der Versioun 1904 sollen am Hallefjäerleche Kanal (geziilt) ab September 2019 an am Hallefjäerleche Kanal ab Januar 2020 disponibel sinn.
+> - Dës nei a verbessert Dateschutzsteierelementer ginn dann nach mat zousätzlechen Office-Clients, wéi Teams an eis mobil Appen erweidert. Méi Informatiounen zu dësen Ännerunge wäerten an deenen nächste Méint verëffentlecht ginn. Mir wäerte weiderhin Äre Feedback berücksichtegen an all eis Office 365-Clienten a -Servicer deementspriechend optimiséieren.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Verschécke vun Diagnosdate vun Office 365 ProPlus u Microsoft
 
@@ -69,6 +71,7 @@ Weider Informatioune fannt Dir hei:
 - [Obligatoresch Diagnosdate fir Office](required-diagnostic-data.md)
 - [Optional Diagnosdate fir Office](optional-diagnostic-data.md)
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
+- [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 - [Benotzung vum Diagnosdatenuweiser op Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Verbonne Servicer fir Office 365 ProPlus
@@ -93,6 +96,7 @@ Weider Informatioune fannt Dir hei:
 
 - [Verbonne Servicer op Office](connected-experiences.md)
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
+- [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Optional verbonne Servicer fir Office 365 ProPlus
 
@@ -102,12 +106,13 @@ Dës sinn optional verbonne Servicer, déi net vum Geschäftsvertrag vun Ärer O
 
 Well dës optional verbonne Servicer separate Bedéngungen ënnerleien, ginn dës onofhängeg vun den uewe genannte verbonne Servicer verwalt. Als Administrateur fir Är Organisatioun kënnt Dir unhand vun engem Richtlinneparameter festleeën, ob dës optional verbonne Servicer, als Pak, fir Är Benotzer disponibel sinn. Wann Dir dëse Richtlinneparameter net konfiguréiert, sinn dës optional verbonne Servicer fir Är Benotzer disponibel.
 
-Och wann Dir dës optional verbonne Servicer fir Är Benotzer fräischalt, kënnen si dës optional verbonne Servicer nach ëmmer, als Pak, desaktivéieren ënner **Fichier** > **Kont** > **Kontdateschutz** > **Parametere verwalten**. Är Benotzer hunn nëmmen dës Méiglechkeet, wann se mat hire professionellen Umeldungsinformatiounen op Office ugemellt sinn, (heiansdo och als Aarbechts- oder Schoulkont bezeechent), net wa se mat enger perséinlecher E-Mail-Adress ugemellt sinn.
+Och wann Dir dës optional verbonne Servicer fir Är Benotzer fräischalt, kënne si dës optional verbonne Servicer nach ëmmer, als Pak, am [Dialogfeld fir Dateschutzparameteren](https://support.office.com/article/3e7bc183-bf52-4fd0-8e6b-78978f7f121b) desaktivéieren. Är Benotzer hunn nëmmen dës Méiglechkeet, wann se mat hire professionellen Umeldungsinformatiounen op Office ugemellt sinn, (heiansdo och als Aarbechts- oder Schoulkont bezeechent), net wa se mat enger perséinlecher E-Mail-Adress ugemellt sinn.
 
 Weider Informatioune fannt Dir hei:
 
 - [Iwwerbléck vun den optionale verbonne Servicer op Office](optional-connected-experiences.md)
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
+- [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Obligatoresch Servicedate fir verbonne Servicer
 
