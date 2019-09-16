@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Office 365 ProPlus, inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: ab024c4ce2eb4d81809880b607e084932658be3c
-ms.sourcegitcommit: 3f2319ff2f8fcde87ae5ffefa3b956a8239c4aed
+ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
+ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36441606"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980344"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
 
@@ -37,7 +37,8 @@ Dës Ännerungen enthalen nei an aktualiséiert Benotzerinterface (UI)-Elementer
 > - Dës Ännerunge gëllen och fir folgend Versiounen:
 >   - Versioun 16.28 oder méi nei vun de folgenden Office fir Mac-Applikatiounen: Excel, Outlook, OneNote, PowerPoint a Word.
 >   - Versioun 1904 oder méi nei vun den Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi d’Project Online Professional-Formel oder Visio Online Plan 2.
-> - D’Dateschutzsteierelementer aus der Versioun 1904 sollen am Hallefjäerleche Kanal (geziilt) ab September 2019 an am Hallefjäerleche Kanal ab Januar 2020 disponibel sinn.
+> - Dës Dateschutzsteierelementer sinn an der Versioun 1908 vum Hallefjäerleche Kanal (geziilt) enthalen, deen den 10. September 2019 verëffentlecht gouf. Am hallefjäerleche Kanal wäerten se normalerweis am Januar 2020 disponibel sinn.
+> - Fir d’IOS-Versioune vun Excel, OneNote, PowerPoint, Visio a Word ginn dës Dateschutzsteierelementer normalerweis an der zweeter Hallschent vun Oktober 2019 disponibel sinn. Ufanks Oktober kritt Dir méi Informatiounen dozou.
 > - Dës nei a verbessert Dateschutzsteierelementer ginn dann nach mat zousätzlechen Office-Clients, wéi Teams an eis mobil Appen erweidert. Méi Informatiounen zu dësen Ännerunge wäerten an deenen nächste Méint verëffentlecht ginn. Mir wäerte weiderhin Äre Feedback berücksichtegen an all eis Office 365-Clienten a -Servicer deementspriechend optimiséieren.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Verschécke vun Diagnosdate vun Office 365 ProPlus u Microsoft
