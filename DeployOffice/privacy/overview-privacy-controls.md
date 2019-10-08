@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Office 365 ProPlus, inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
-ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
+ms.openlocfilehash: 708c8b1dae02f54d4c6a6195cec9513c8639b62d
+ms.sourcegitcommit: aed9a0908021ffc80baa7159a66b63dd4f9f28e4
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980344"
+ms.lasthandoff: 10/08/2019
+ms.locfileid: "37417417"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
 
@@ -39,6 +39,7 @@ Dës Ännerungen enthalen nei an aktualiséiert Benotzerinterface (UI)-Elementer
 >   - Versioun 1904 oder méi nei vun den Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi d’Project Online Professional-Formel oder Visio Online Plan 2.
 > - Dës Dateschutzsteierelementer sinn an der Versioun 1908 vum Hallefjäerleche Kanal (geziilt) enthalen, deen den 10. September 2019 verëffentlecht gouf. Am hallefjäerleche Kanal wäerten se normalerweis am Januar 2020 disponibel sinn.
 > - Fir d’IOS-Versioune vun Excel, OneNote, PowerPoint, Visio a Word ginn dës Dateschutzsteierelementer normalerweis an der zweeter Hallschent vun Oktober 2019 disponibel sinn. Ufanks Oktober kritt Dir méi Informatiounen dozou.
+> - Déi meescht Web-Applikatioune fir Office wäerte Mëtt Oktober 2019 ufänken, dat neit Dateschutzsteierelement fir [optional verbonne Servicer](optional-connected-experiences.md) ze benotzen. Folgend Applikatioune sinn dovu betraff: Excel um Web, OneNote um Web, PowerPoint um Web, Visio um Web a Word um Web. Do virdru kënnt Dir nach den [Office-Cloudrichtlinneservice](../overview-office-cloud-policy-service.md) benotzen, fir deen adequate [Richtlinneparameter](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) ze konfiguréieren.
 > - Dës nei a verbessert Dateschutzsteierelementer ginn dann nach mat zousätzlechen Office-Clients, wéi Teams an eis mobil Appen erweidert. Méi Informatiounen zu dësen Ännerunge wäerten an deenen nächste Méint verëffentlecht ginn. Mir wäerte weiderhin Äre Feedback berücksichtegen an all eis Office 365-Clienten a -Servicer deementspriechend optimiséieren.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Verschécke vun Diagnosdate vun Office 365 ProPlus u Microsoft
