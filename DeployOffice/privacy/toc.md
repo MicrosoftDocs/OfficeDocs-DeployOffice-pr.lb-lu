@@ -2,6 +2,7 @@
 ## [Dateschutzsteierelementer am Iwwerbléck](overview-privacy-controls.md)
 ## [Verwalt Dateschutzsteierelementer unhand vun Dateschutzparameteren](manage-privacy-controls.md)
 ## [Verwalt Dateschutzsteierelementer unhand vu Preferenzen (Mac)](mac-privacy-preferences.md)
+## [Verwalt Dateschutzsteierelementer unhand vu Preferenzen (iOS)](ios-privacy-preferences.md)
 
 ## Diagnosdaten
 ### [Obligatoresch Diagnosdaten](required-diagnostic-data.md)
