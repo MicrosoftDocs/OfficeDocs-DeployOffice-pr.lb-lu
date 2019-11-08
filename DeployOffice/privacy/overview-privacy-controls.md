@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Office 365 ProPlus, inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: 24a3d30d05fb2a1456e10d8a8036f31c25c14db7
-ms.sourcegitcommit: 02c4120c0b10bfe378d21d60699ae49aaef97834
+ms.openlocfilehash: 784bbf08626e6dc8571c416a74511c9f5feeceec
+ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37510705"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38067359"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
 
@@ -39,7 +39,8 @@ Dës Ännerungen enthalen nei an aktualiséiert Benotzerinterface (UI)-Elementer
 >   - Versioun 1904 oder méi nei vun den Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi d’Project Online Professional-Formel oder Visio Online Plan 2.
 > - Dës Dateschutzsteierelementer sinn an der Versioun 1908 vum Hallefjäerleche Kanal (geziilt) enthalen, deen den 10. September 2019 verëffentlecht gouf. Am hallefjäerleche Kanal wäerten se normalerweis am Januar 2020 disponibel sinn.
 > - Dës Dateschutzsteierelementer sinn disponibel fir d’Versioun 2.30 a méi nei vun den iOS-Versioune vun Excel, OneNote, PowerPoint a Word, esou wéi fir d’Versioun 1.17 a méi nei vum Visio Viewer fir iOS.
-> - Déi meescht Web-Applikatioune fir Office wäerte Mëtt Oktober 2019 ufänken, dat neit Dateschutzsteierelement fir [optional verbonne Servicer](optional-connected-experiences.md) ze benotzen. Folgend Applikatioune sinn dovu betraff: Excel um Web, OneNote um Web, PowerPoint um Web, Visio um Web a Word um Web. Do virdru kënnt Dir nach den [Office-Cloudrichtlinneservice](../overview-office-cloud-policy-service.md) benotzen, fir deen adequate [Richtlinneparameter](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) ze konfiguréieren.
+> - Dës Dateschutzsteierelementer sinn disponibel fir d’Versioun 16.0.12226.10000 a méi nei vun den Android-Versioune vun Excel, PowerPoint a Word, esou wéi fir d’Versioun 16.0.12228.20004 a méi nei vun OneNote fir Android.
+> - Déi meescht Web-Applikatioune fir Office benotzen dat neit Dateschutzsteierelement fir [optional verbonne Servicer](optional-connected-experiences.md). Folgend Applikatioune sinn dovu betraff: Excel um Web, OneNote um Web, PowerPoint um Web, Visio um Web a Word um Web. Dir kënnt den [Office-Cloudrichtlinneservice](../overview-office-cloud-policy-service.md) benotzen, fir deen adequate [Richtlinneparameter](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) ze konfiguréieren.
 > - Dës nei a verbessert Dateschutzsteierelementer ginn dann nach mat zousätzlechen Office-Clients, wéi Teams an eis mobil Appen erweidert. Méi Informatiounen zu dësen Ännerunge wäerten an deenen nächste Méint verëffentlecht ginn. Mir wäerte weiderhin Äre Feedback berücksichtegen an all eis Office 365-Clienten a -Servicer deementspriechend optimiséieren.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Verschécke vun Diagnosdate vun Office 365 ProPlus u Microsoft
@@ -75,6 +76,7 @@ Weider Informatioune fannt Dir hei:
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office op iOS-Apparater benotzen](ios-privacy-preferences.md)
+- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office op Android-Apparater ze verwalten](android-privacy-controls.md)
 - [Benotzung vum Diagnosdatenuweiser op Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Verbonne Servicer fir Office 365 ProPlus
@@ -101,6 +103,7 @@ Weider Informatioune fannt Dir hei:
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office op iOS-Apparater benotzen](ios-privacy-preferences.md)
+- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office op Android-Apparater ze verwalten](android-privacy-controls.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Optional verbonne Servicer fir Office 365 ProPlus
 
@@ -118,6 +121,7 @@ Weider Informatioune fannt Dir hei:
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office op iOS-Apparater benotzen](ios-privacy-preferences.md)
+- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office op Android-Apparater ze verwalten](android-privacy-controls.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Obligatoresch Servicedate fir verbonne Servicer
 

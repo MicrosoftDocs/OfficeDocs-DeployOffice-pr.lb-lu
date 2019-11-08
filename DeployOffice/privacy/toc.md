@@ -3,6 +3,7 @@
 ## [Verwalt Dateschutzsteierelementer unhand vun Dateschutzparameteren](manage-privacy-controls.md)
 ## [Verwalt Dateschutzsteierelementer unhand vu Preferenzen (Mac)](mac-privacy-preferences.md)
 ## [Verwalt Dateschutzsteierelementer unhand vu Preferenzen (iOS)](ios-privacy-preferences.md)
+## [Verwalt Dateschutzsteierelementer unhand vun Richtlinneparameteren (Android)](android-privacy-controls.md)
 
 ## Diagnosdaten
 ### [Obligatoresch Diagnosdaten](required-diagnostic-data.md)
