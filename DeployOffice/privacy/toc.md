@@ -1,9 +1,12 @@
 # Dateschutz fir Office 365 ProPlus
+
 ## [Dateschutzsteierelementer am Iwwerbléck](overview-privacy-controls.md)
-## [Verwalt Dateschutzsteierelementer unhand vun Dateschutzparameteren](manage-privacy-controls.md)
-## [Verwalt Dateschutzsteierelementer unhand vu Preferenzen (Mac)](mac-privacy-preferences.md)
-## [Verwalt Dateschutzsteierelementer unhand vu Preferenzen (iOS)](ios-privacy-preferences.md)
-## [Verwalt Dateschutzsteierelementer unhand vun Richtlinneparameteren (Android)](android-privacy-controls.md)
+
+## Dateschutzsteierelementer verwalten
+### [Windows-Richtlinneparameteren](manage-privacy-controls.md)
+### [Mac-Preferenzen](mac-privacy-preferences.md)
+### [iOS-Preferenzen](ios-privacy-preferences.md)
+### [Android-Richtlinneparameteren](android-privacy-controls.md)
 
 ## Diagnosdaten
 ### [Obligatoresch Diagnosdaten](required-diagnostic-data.md)
