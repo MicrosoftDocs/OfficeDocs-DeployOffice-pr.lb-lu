@@ -1,5 +1,5 @@
 ---
-title: Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
+title: Iwwersiicht vun den Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -13,20 +13,20 @@ ms.collection:
 ms.custom:
 - Ent_Office_ProPlus
 - Ent_Office_Privacy
-description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Office 365 ProPlus, inklusiv Diagnosdaten a verbonne Servicer.
+description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen (bis elo Office 365 ProPlus), inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: 784bbf08626e6dc8571c416a74511c9f5feeceec
-ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
+ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
+ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38067359"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43993096"
 ---
-# <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Dateschutzsteierelementer am Iwwerbléck fir Office 365 ProPlus
+# <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Iwwersiicht vun den Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen
 
-Microsoft ass verflicht, Iech déi néideg Informatiounen a Steierelementer bereetzestellen, dermat Dir doriwwer entscheede kënnt, wéi Är Date gesammelt a benotzt ginn, während Dir Office 365 ProPlus benotzt.
+Microsoft ass verflicht, Iech déi néideg Informatiounen a Steierelementer bereetzestellen, fir dass Dir doriwwer entscheede kënnt, wéi Är Date gesammelt a benotzt ginn, während Dir Microsoft 365 Apps fir Groussentreprisen (bis elo Office 365 ProPlus) benotzt.
 
-Niewent der Versioun 1904 vun Office 365 ProPlus (déi den 29. Abrëll 2019 am Méintleche Kanal verëffentlecht gouf) stelle mir Iech aktualiséiert a verbessert Dateschutzsteierelementer fir folgend Beräicher zur Verfügung:
+Niewent der Versioun 1904 vu Microsoft 365 Apps fir Groussentreprisen stelle mir Iech aktualiséiert a verbessert Dateschutzsteierelementer fir folgend Beräicher zur Verfügung:
 - ***Diagnodaten***, déi gesammelt an u Microsoft geschéckt ginn, iwwert d’Office-Clientsoftware, déi op Computeren, op deene Windows ausgefouert gëtt, an Ärer Organisatioun benotzt gëtt.
 - ***Verbonne Servicer***, déi op cloudbaséiert Funktionalitéiten zougräifen, fir Iech an Äre Benotzer verbessert Office-Funktiounen.
 
@@ -36,20 +36,20 @@ Dës Ännerungen enthalen nei an aktualiséiert Benotzerinterface (UI)-Elementer
 > - Access, Excel, OneNote, Outlook, PowerPoint, Publisher a Word si vun dësen Ännerunge betraff.
 > - Dës Ännerunge gëllen och fir folgend Versiounen:
 >   - Versioun 16.28 oder méi nei vun de folgenden Office fir Mac-Applikatiounen: Excel, Outlook, OneNote, PowerPoint a Word.
->   - Versioun 1904 oder méi nei vun den Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi d’Project Online Professional-Formel oder Visio Online Plan 2.
-> - Dës Dateschutzsteierelementer sinn an der Versioun 1908 vum Hallefjäerleche Kanal (geziilt) enthalen, deen den 10. September 2019 verëffentlecht gouf. Am hallefjäerleche Kanal wäerten se normalerweis am Januar 2020 disponibel sinn.
+>   - Versioun 1904 oder méi nei vun den Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi de Project Plan 5 oder Visio Plan 2.
+> - Dës Dateschutzsteierelementer sinn an der Versioun 1908 oder spéider vum Hallefjäerleche Kanal (geziilt) an Hallefjäerleche Kanal enthalen.
 > - Dës Dateschutzsteierelementer sinn disponibel fir d’Versioun 2.30 a méi nei vun den iOS-Versioune vun Excel, OneNote, PowerPoint a Word, esou wéi fir d’Versioun 1.17 a méi nei vum Visio Viewer fir iOS.
 > - Dës Dateschutzsteierelementer sinn disponibel fir d’Versioun 16.0.12226.10000 a méi nei vun den Android-Versioune vun Excel, PowerPoint a Word, esou wéi fir d’Versioun 16.0.12228.20004 a méi nei vun OneNote fir Android.
 > - Déi meescht Web-Applikatioune fir Office benotzen dat neit Dateschutzsteierelement fir [optional verbonne Servicer](optional-connected-experiences.md). Folgend Applikatioune sinn dovu betraff: Excel um Web, OneNote um Web, PowerPoint um Web, Visio um Web a Word um Web. Dir kënnt den [Office-Cloudrichtlinneservice](../overview-office-cloud-policy-service.md) benotzen, fir deen adequate [Richtlinneparameter](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) ze konfiguréieren.
-> - Dës nei a verbessert Dateschutzsteierelementer ginn dann nach mat zousätzlechen Office-Clients, wéi Teams an eis mobil Appen erweidert. Méi Informatiounen zu dësen Ännerunge wäerten an deenen nächste Méint verëffentlecht ginn. Mir wäerte weiderhin Äre Feedback berücksichtegen an all eis Office 365-Clienten a -Servicer deementspriechend optimiséieren.
+> - Dës nei a verbessert Dateschutzsteierelementer ginn dann nach mat zousätzlechen Office-Clients, wéi Teams an eis mobil Appen erweidert. Méi Informatiounen zu dësen Ännerunge wäerten an deenen nächste Méint verëffentlecht ginn. Mir wäerte weiderhin Äre Feedback berücksichtegen an all eis Office 365- (a Microsoft 365-)Clienten a -Servicer deementspriechend optimiséieren.
 
-## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Verschécke vun Diagnosdate vun Office 365 ProPlus u Microsoft
+## <a name="diagnostic-data-sent-from-microsoft-365-apps-for-enterprise-to-microsoft"></a>Diagnosdaten, déi vu Microsoft 365 Apps fir Groussentreprisen u Microsoft geschéckt ginn
 
 Diagnosdate gi benotzt, fir d'Sécherheet an d'Aktualiséierung vun Office ze garantéieren, Problemer z’erkennen, ze diagnostizéieren an ze léisen a Produiten ze verbesseren. Dës Daten enthale weder dem Benotzer säin Numm oder seng E-Mail-Adress, nach den Inhalt aus senge Fichieren oder Informatiounen iwwert Appen, déi net zu Office gehéieren.
 
 Dës Diagnodaten iwwert d’Office-Clientsoftware, déi op Computeren, op deene Windows ausgefouert gëtt, an Ärer Organisatioun benotzt gëtt, gi gesammelt an u Microsoft geschéckt.
 
-Dir hutt d’Wiel tëschent dräi Niveaue vun Diagnosdate fir d’Office 365 ProPlus-Clientsoftware:
+Dir hutt d’Wiel tëschent dräi Niveaue vun Diagnosdate fir d’Microsoft 365 Apps fir Groussentreprisen-Clientsoftware:
 
 - **Obligatoresch** De Minimum vun néideg Date fir d'Sécherheet an d'Aktualiséierung vun Office ze garantéieren, dermat d'App wéi erwaart op den Apparater funktionéiert, op déi se installéiert ass.
 
@@ -73,15 +73,15 @@ Weider Informatioune fannt Dir hei:
 
 - [Obligatoresch Diagnosdate fir Office](required-diagnostic-data.md)
 - [Optional Diagnosdate fir Office](optional-diagnostic-data.md)
-- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
+- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen ze verwalten](manage-privacy-controls.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office op iOS-Apparater benotzen](ios-privacy-preferences.md)
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office op Android-Apparater ze verwalten](android-privacy-controls.md)
 - [Benotzung vum Diagnosdatenuweiser op Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
-## <a name="connected-experiences-for-office-365-proplus"></a>Verbonne Servicer fir Office 365 ProPlus
+## <a name="connected-experiences-for-microsoft-365-apps-for-enterprise"></a>Verbonne Servicer fir Microsoft 365 Apps fir Groussentreprisen
 
-Office 365 ProPlus besteet aus Clientsoftware-Applikatiounen a verbonne Servicer entwéckelt fir Iech en méi effikass Kommunikatioun an Zesummenaarbecht z’erméiglechen. D’Zesummenaarbecht mat anere Persounen un engem Dokument, dat op OneDrive Entreprise gespäichert ass, oder d’Iwwersetzung vum Inhalt vun engem Word-Dokument an eng aner Sprooch si Beispiller vu verbonne Servicer.
+Microsoft 365 Apps fir Groussentreprisen besteet aus Clientsoftware-Applikatiounen a verbonne Servicer, entwéckelt fir Iech eng méi effikass Kommunikatioun an Zesummenaarbecht z’erméiglechen. D’Zesummenaarbecht mat anere Persounen un engem Dokument, dat op OneDrive Entreprise gespäichert ass, oder d’Iwwersetzung vum Inhalt vun engem Word-Dokument an eng aner Sprooch si Beispiller vu verbonne Servicer.
 
 Dir wëllt bestëmmt wielen, wéi eng Typpe vu verbonne Servicer fir Är Benotzer disponibel sinn, während se an Office-Applikatioune schaffen. Als Administrateur fir Är Organisatioun kënnt Dir unhand vu Richtlinneparametere wielen, ob Dir folgend Typpe vu verbonne Servicer fir Är Benotzer bereetstelle wëllt:
 
@@ -100,14 +100,14 @@ Wann Dir Äre Benotzer verschidden Typpe vu verbonne Servicer net zur Verfügung
 Weider Informatioune fannt Dir hei:
 
 - [Verbonne Servicer op Office](connected-experiences.md)
-- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
+- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen ze verwalten](manage-privacy-controls.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office op iOS-Apparater benotzen](ios-privacy-preferences.md)
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office op Android-Apparater ze verwalten](android-privacy-controls.md)
 
-## <a name="optional-connected-experiences-for-office-365-proplus"></a>Optional verbonne Servicer fir Office 365 ProPlus
+## <a name="optional-connected-experiences-for-microsoft-365-apps-for-enterprise"></a>Optional verbonne Servicer fir Microsoft 365 Apps fir Groussentreprisen
 
-Zousätzlech zu den uewe genannte verbonne Servicer, déi bei Office 365 ProPlus dobäi sinn, ginn et optional verbonne Servicer, op déi Är Benotzer mat hirem Entreprisekont zougräife kënnen. Zum Beispill d’LinkedIn-Funktioune vum CV-Assistent op Word oder d’3D-Kaartefunktioun op Excel, déi mat Bing funktionéiert.
+Zousätzlech zu den uewe genannte verbonne Servicer, déi bei Microsoft 365 Apps fir Groussentreprisen dobäi sinn, ginn et optional verbonne Servicer, op déi Är Benotzer mat hirem Entreprisekont zougräife kënnen. Zum Beispill d’LinkedIn-Funktioune vum CV-Assistent op Word oder d’3D-Kaartefunktioun op Excel, déi mat Bing funktionéiert.
 
 Dës sinn optional verbonne Servicer, déi net vum Geschäftsvertrag vun Ärer Organisatioun mat Microsoft gedeckt sinn, mä ënnerleie separate Geschäftsbedéngungen. Optional verbonne Servicer, déi direkt vu Microsoft un Är Benotzer ugebuede ginn, ënnerleien dem [Microsoft-Servicevertrag](https://www.microsoft.com/servicesagreement) amplaz den [Online-Servicebedéngungen](https://www.microsoft.com/licensing/product-licensing/products).
 
@@ -118,7 +118,7 @@ Och wann Dir dës optional verbonne Servicer fir Är Benotzer fräischalt, kënn
 Weider Informatioune fannt Dir hei:
 
 - [Iwwerbléck vun den optionale verbonne Servicer op Office](optional-connected-experiences.md)
-- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office 365 ProPlus ze verwalten](manage-privacy-controls.md)
+- [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen ze verwalten](manage-privacy-controls.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office fir Mac benotzen](mac-privacy-preferences.md)
 - [Preferenze fir d’Verwalte vun Dateschutzsteierelementer fir Office op iOS-Apparater benotzen](ios-privacy-preferences.md)
 - [Benotzt Richtlinneparameteren, fir Dateschutzsteierelementer fir Office op Android-Apparater ze verwalten](android-privacy-controls.md)
@@ -143,9 +143,9 @@ Wann Dir Äre Benotzer d’Kategorie vun de verbonne Servicer, déi PowerPoint D
 
 Weider Informatioune fannt Dir ënner [Obligatoresch Servicedate fir Office](required-service-data.md).
 
-## <a name="essential-services-for-office-365-proplus"></a>Wesentlech Servicer fir Office 365 ProPlus
+## <a name="essential-services-for-microsoft-365-apps-for-enterprise"></a>Wesentlech Servicer fir Microsoft 365 Apps fir Groussentreprisen
 
-Et ginn och eng ganz Rei Servicer, déi fir d’Fonctionnement vun Office 365 ProPlus wesentlech sinn an net desaktivéiert kënne ginn. Zum Beispill de lizenzéierende Service, dee bestätegt, dass Dir eng Lizenz fir d’Benotzung vun Office 365 ProPlus hutt. Obligatoresch Servicedaten iwwert dës Servicer gi gesammelt an u Microsoft geschéckt, onofhängeg vun egal wéi engen anere Richtlinneparameteren, déi Dir eventuell konfiguréiert hutt.
+Et ginn och eng ganz Rei Servicer, déi fir d’Fonctionnement vu Microsoft 365 Apps fir Groussentreprise wesentlech sinn an net desaktivéiert kënne ginn. Zum Beispill de lizenzéierende Service, dee bestätegt, dass Dir eng Lizenz fir d’Benotzung vu Microsoft 365 Apps fir Groussentreprisen hutt. Obligatoresch Servicedaten iwwert dës Servicer gi gesammelt an u Microsoft geschéckt, onofhängeg vun egal wéi engen anere Richtlinneparameteren, déi Dir eventuell konfiguréiert hutt.
 
 Weider Informatioune fannt Dir ënner [Wesentlech Servicer fir Office](essential-services.md).
 

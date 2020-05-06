@@ -1,4 +1,4 @@
-# Dateschutz fir Office 365 ProPlus
+# Dateschutz op Microsoft 365 Apps fir Groussentreprisen
 
 ## [Dateschutzsteierelementer am Iwwerbléck](overview-privacy-controls.md)
 
