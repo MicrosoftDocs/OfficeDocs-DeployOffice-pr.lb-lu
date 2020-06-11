@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen (bis elo Office 365 ProPlus), inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
-ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
+ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
+ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43993096"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44663543"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Iwwersiicht vun den Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen
 
@@ -37,7 +37,7 @@ Dës Ännerungen enthalen nei an aktualiséiert Benotzerinterface (UI)-Elementer
 > - Dës Ännerunge gëllen och fir folgend Versiounen:
 >   - Versioun 16.28 oder méi nei vun de folgenden Office fir Mac-Applikatiounen: Excel, Outlook, OneNote, PowerPoint a Word.
 >   - Versioun 1904 oder méi nei vun den Desktopversioune vu Project a Visio, déi bei verschidden Abonnementformelen dobäi sinn, wéi de Project Plan 5 oder Visio Plan 2.
-> - Dës Dateschutzsteierelementer sinn an der Versioun 1908 oder spéider vum Hallefjäerleche Kanal (geziilt) an Hallefjäerleche Kanal enthalen.
+> - Dës Dateschutzsteierelementer sinn an der Versioun 1908 oder méi nei vum Hallefjäerlechen Enterprise-Kanal (Preview) a vum Hallefjäerlechen Enterprise-Kanal enthalen.
 > - Dës Dateschutzsteierelementer sinn disponibel fir d’Versioun 2.30 a méi nei vun den iOS-Versioune vun Excel, OneNote, PowerPoint a Word, esou wéi fir d’Versioun 1.17 a méi nei vum Visio Viewer fir iOS.
 > - Dës Dateschutzsteierelementer sinn disponibel fir d’Versioun 16.0.12226.10000 a méi nei vun den Android-Versioune vun Excel, PowerPoint a Word, esou wéi fir d’Versioun 16.0.12228.20004 a méi nei vun OneNote fir Android.
 > - Déi meescht Web-Applikatioune fir Office benotzen dat neit Dateschutzsteierelement fir [optional verbonne Servicer](optional-connected-experiences.md). Folgend Applikatioune sinn dovu betraff: Excel um Web, OneNote um Web, PowerPoint um Web, Visio um Web a Word um Web. Dir kënnt den [Office-Cloudrichtlinneservice](../overview-office-cloud-policy-service.md) benotzen, fir deen adequate [Richtlinneparameter](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) ze konfiguréieren.
