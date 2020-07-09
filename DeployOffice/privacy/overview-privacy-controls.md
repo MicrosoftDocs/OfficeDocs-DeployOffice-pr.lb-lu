@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Bitt den Office-Administrateuren en Iwwerbléck vun de Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen (bis elo Office 365 ProPlus), inklusiv Diagnosdaten a verbonne Servicer.
 hideEdit: true
-ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
-ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
+ms.openlocfilehash: f5a957d57a7c8f95503091f456aef5a9c1e0fca7
+ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
 ms.translationtype: HT
 ms.contentlocale: lb-LU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44663543"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45087691"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Iwwersiicht vun den Dateschutzsteierelementer fir Microsoft 365 Apps fir Groussentreprisen
 
@@ -85,7 +85,7 @@ Microsoft 365 Apps fir Groussentreprisen besteet aus Clientsoftware-Applikatioun
 
 Dir wëllt bestëmmt wielen, wéi eng Typpe vu verbonne Servicer fir Är Benotzer disponibel sinn, während se an Office-Applikatioune schaffen. Als Administrateur fir Är Organisatioun kënnt Dir unhand vu Richtlinneparametere wielen, ob Dir folgend Typpe vu verbonne Servicer fir Är Benotzer bereetstelle wëllt:
 
-- **Servicer, déi Ären Inhalt analyséieren** Servicer, déi Ären Office-Inhalt benotzen, fir Iech personaliséiert Empfeelungen, Beaarbechtungsvirschléi, Datenabléck an ähnlech Funktiounen unzebidden. Zum Beispill PowerPoint Designer oder Editor op Word.
+- **Servicer, déi Ären Inhalt analyséieren** Servicer, déi Ären Office-Inhalt benotzen, fir Iech personaliséiert Empfeelungen, Beaarbechtungsvirschléi, Datenabléck an ähnlech Funktiounen unzebidden. Zum Beispill PowerPoint Designer oder Translator.
 
 - **Servicer, déi Onlineinhalt eroflueden** Servicer, déi et Iech erméiglechen, Onlineinhalt ze sichen an erofzelueden, wéi Virlagen, Biller, 3D-Modeller, Videoen a Referenzmaterial, fir Är Dokumenter z'optimiséieren. Zum Beispill Office-Virlagen oder PowerPoint QuickStarter.
 
